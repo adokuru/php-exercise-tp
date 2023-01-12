@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Mail;
 
 class HomeController extends Controller
 {
@@ -37,21 +38,61 @@ class HomeController extends Controller
             'email' => 'required|email',
         ]);
 
-        // get data from RapidAPI
-        $rapidAPI = new \App\Services\RapidAPIService($request->symbol);
-        $data = $rapidAPI->getCompanyData();
+        try {
+            // get data from RapidAPI
+            $rapidAPI = new \App\Services\RapidAPIService($request->symbol);
+            $data = $rapidAPI->getCompanyData();
 
-        dd($data);
+            // if no data, return empty array
+            if (!$data) {
+                return redirect()->back()->withErrors('No data found');
+            }
 
-        // if no data, return empty array
-        if (!$data) {
-            return view('home', [
-                'companies' => []
+
+            // convert start and end date to timestamp
+            $start_date = strtotime($request->start_date);
+            $end_date = strtotime($request->end_date);
+
+
+            // get prices data
+            $data = $data->prices;
+
+            // filter data by date range
+            $data = array_filter($data, function ($item) use ($end_date, $start_date) {
+                return $item->date >= $start_date && $item->date <= $end_date;
+            });
+
+
+            // convert date to readable format
+            foreach ($data as $item) {
+                $item->newDate = date('d-m-Y', $item->date);
+            }
+
+            $path = public_path('data');
+
+            $CompaniesData = File::get($path . '/companies.json');
+            $company = json_decode($CompaniesData);
+
+            foreach ($company as $element) {
+                if ($request->symbol == $element->Symbol) {
+                    $companyName = $element->{"Company Name"};
+                }
+            }
+
+            // sort data by date
+            usort($data, function ($a, $b) {
+                return $a->date <=> $b->date;
+            });
+
+            // Send email
+            Mail::to($request->email)->send(new \App\Mail\CompanyData($request->start_date, $request->end_date, $companyName));
+
+            return view('view-history', [
+                'companyData' => $data,
+                'companyName' => $companyName
             ]);
+        } catch (\Exception $e) {
+            return redirect()->back()->withErrors($e->getMessage());
         }
-
-        return view('view-history', [
-            'companies' => $data
-        ]);
     }
 }

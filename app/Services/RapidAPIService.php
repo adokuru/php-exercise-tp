@@ -7,7 +7,7 @@ use GuzzleHttp\Client;
 class RapidAPIService
 {
     private $client;
-    private $base_uri = 'https://yh-finance.p.rapidapi.com/stock/v3/get-historical-data';
+    private $base_uri = 'https://yh-finance.p.rapidapi.com/stock/v3/get-historical-data?';
 
     public function __construct($symbol = null, $region = 'US')
     {
