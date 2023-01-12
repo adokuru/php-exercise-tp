@@ -10,22 +10,39 @@ class HomeController extends Controller
 {
     public function index()
     {
-        // get available options
-        $path = public_path('data');
-        $data = File::get($path . '/companies.json');
+        $companies = $this->getCompanyData();
 
         // if no data, return empty array
-        if (!$data) {
+        if (!$companies) {
             return view('home', [
                 'companies' => []
             ]);
         }
 
-        // decode json data
-        $companies = json_decode($data);
         return view('home', [
             'companies' => $companies
         ]);
+    }
+
+    public function getCompanyData()
+    {
+        // get available options
+        $data = File::get(public_path('data/companies.json'));
+        $data = json_decode($data);
+        return $data;
+    }
+
+    public function getCompanyDataBySymbol($symbol)
+    {
+        // get available options
+        $data = File::get(public_path('data/companies.json'));
+        $data = json_decode($data);
+
+        $data = array_filter($data, function ($item) use ($symbol) {
+            return $item->Symbol == $symbol;
+        });
+
+        return $data;
     }
 
     public function showData(Request $request)
@@ -53,7 +70,6 @@ class HomeController extends Controller
             $start_date = strtotime($request->start_date);
             $end_date = strtotime($request->end_date);
 
-
             // get prices data
             $data = $data->prices;
 
@@ -68,16 +84,8 @@ class HomeController extends Controller
                 $item->newDate = date('d-m-Y', $item->date);
             }
 
-            $path = public_path('data');
+            $companyName = $this->getCompanyDataBySymbol($request->symbol)->{"Company Name"};
 
-            $CompaniesData = File::get($path . '/companies.json');
-            $company = json_decode($CompaniesData);
-
-            foreach ($company as $element) {
-                if ($request->symbol == $element->Symbol) {
-                    $companyName = $element->{"Company Name"};
-                }
-            }
 
             // sort data by date
             usort($data, function ($a, $b) {
