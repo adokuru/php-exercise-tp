@@ -27,7 +27,15 @@ class GetCompanies extends TestCase
     {
         $companies = new \App\Http\Controllers\HomeController();
         $data = $companies->getCompanyDataBySymbol('AAPL');
-
+        $this->assertIsObject($data);
         $this->assertEquals('AAPL', $data->Symbol);
+    }
+
+    public function test_get_companies_with_symbol_not_found()
+    {
+        $companies = new \App\Http\Controllers\HomeController();
+        $data = $companies->getCompanyDataBySymbol('NOTFOUND');
+
+        $this->assertNull($data);
     }
 }

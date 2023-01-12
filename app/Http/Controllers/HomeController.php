@@ -51,7 +51,7 @@ class HomeController extends Controller
     {
         // Validate request
         $request->validate([
-            'symbol' => 'required:alpha',
+            'symbol' => 'required:string',
             'start_date' => 'required|date',
             'end_date' => 'required|date',
             'email' => 'required|email',
@@ -107,7 +107,7 @@ class HomeController extends Controller
             return view('view-history', [
                 'companyData' => $data,
                 'companyName' => $companyName
-            ]);
+            ])->with('success', 'Email sent successfully!');
         } catch (\Exception $e) {
             return redirect()->back()->withErrors($e->getMessage());
         }
