@@ -1,0 +1,4673 @@
+[
+    {
+        "Company Name": "iShares MSCI All Country Asia Information Technology Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "iShares MSCI All Country Asia Information Technology Index Fund",
+        "Symbol": "AAIT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Airlines Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Airlines Group, Inc. - Common Stock",
+        "Symbol": "AAL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atlantic American Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Atlantic American Corporation - Common Stock",
+        "Symbol": "AAME",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Applied Optoelectronics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Applied Optoelectronics, Inc. - Common Stock",
+        "Symbol": "AAOI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AAON, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AAON, Inc. - Common Stock",
+        "Symbol": "AAON",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Apple Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Apple Inc. - Common Stock",
+        "Symbol": "AAPL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Avalanche Biotechnologies, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Avalanche Biotechnologies, Inc. - Common Stock",
+        "Symbol": "AAVL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atlas Air Worldwide Holdings",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Atlas Air Worldwide Holdings - Common Stock",
+        "Symbol": "AAWW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "iShares MSCI All Country Asia ex Japan Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "iShares MSCI All Country Asia ex Japan Index Fund",
+        "Symbol": "AAXJ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aoxin Tianli Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Aoxin Tianli Group, Inc. - Common Shares",
+        "Symbol": "ABAC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ABAXIS, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ABAXIS, Inc. - Common Stock",
+        "Symbol": "ABAX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ameris Bancorp",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Ameris Bancorp - Common Stock",
+        "Symbol": "ABCB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cambium Learning Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cambium Learning Group, Inc. - Common Stock",
+        "Symbol": "ABCD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "The Advisory Board Company",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "The Advisory Board Company - Common Stock",
+        "Symbol": "ABCO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Anchor BanCorp Wisconsin Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Anchor BanCorp Wisconsin Inc. - Common Stock",
+        "Symbol": "ABCW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alcentra Capital Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alcentra Capital Corp. - Common Stock",
+        "Symbol": "ABDC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Abengoa, S.A.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Abengoa, S.A. - American Depositary Shares",
+        "Symbol": "ABGB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ARCA biopharma, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ARCA biopharma, Inc. - Common Stock",
+        "Symbol": "ABIO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ABIOMED, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ABIOMED, Inc. - Common Stock",
+        "Symbol": "ABMD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Autobytel Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Autobytel Inc. - Common Stock",
+        "Symbol": "ABTL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Abengoa Yield plc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Abengoa Yield plc - Ordinary Shares",
+        "Symbol": "ABY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ACADIA Pharmaceuticals Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ACADIA Pharmaceuticals Inc. - Common Stock",
+        "Symbol": "ACAD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Capital, Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Capital, Ltd. - Common Stock",
+        "Symbol": "ACAS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Arctic Cat Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Arctic Cat Inc. - Common Stock",
+        "Symbol": "ACAT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aceto Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Aceto Corporation - Common Stock",
+        "Symbol": "ACET",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atlantic Coast Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Atlantic Coast Financial Corporation - Common Stock",
+        "Symbol": "ACFC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Acorn Energy, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Acorn Energy, Inc. - Common Stock",
+        "Symbol": "ACFN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Arch Capital Group Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Arch Capital Group Ltd. - Common Stock",
+        "Symbol": "ACGL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Acadia Healthcare Company, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Acadia Healthcare Company, Inc. - Common Stock",
+        "Symbol": "ACHC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Achillion Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Achillion Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ACHN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ACI Worldwide, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ACI Worldwide, Inc. - Common Stock",
+        "Symbol": "ACIW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Axcelis Technologies, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Axcelis Technologies, Inc. - Common Stock",
+        "Symbol": "ACLS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ACNB Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ACNB Corporation - Common Stock",
+        "Symbol": "ACNB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Acorda Therapeutics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Acorda Therapeutics, Inc. - Common Stock",
+        "Symbol": "ACOR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Active Power, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Active Power, Inc. - Common Stock",
+        "Symbol": "ACPW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AcelRx Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "AcelRx Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ACRX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Capital Senior Floating, Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Capital Senior Floating, Ltd. - Common Stock",
+        "Symbol": "ACSF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Acasti Pharma, Inc.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Acasti Pharma, Inc. - Class A Common Stock",
+        "Symbol": "ACST",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Actua Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Actua Corporation - Common Stock",
+        "Symbol": "ACTA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Acacia Research Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Acacia Research Corporation - Common Stock",
+        "Symbol": "ACTG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Actions Semiconductor Co., Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Actions Semiconductor Co., Ltd. - American Depositary Shares, each representing Six Ordinary Shares",
+        "Symbol": "ACTS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Acura Pharmaceuticals, Inc.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Acura Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ACUR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "iShares MSCI ACWI Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "iShares MSCI ACWI Index Fund",
+        "Symbol": "ACWI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "iShares MSCI ACWI ex US Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "iShares MSCI ACWI ex US Index Fund",
+        "Symbol": "ACWX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Acxiom Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Acxiom Corporation - Common Stock",
+        "Symbol": "ACXM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Authentidate Holding Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Authentidate Holding Corp. - Common Stock",
+        "Symbol": "ADAT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Adobe Systems Incorporated",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Adobe Systems Incorporated - Common Stock",
+        "Symbol": "ADBE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Adept Technology, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Adept Technology, Inc. - Common Stock",
+        "Symbol": "ADEP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Advanced Emissions Solutions, Inc.",
+        "Financial Status": "E",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Advanced Emissions Solutions, Inc. - Common Stock",
+        "Symbol": "ADES",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alcobra Ltd.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Alcobra Ltd. - Ordinary Shares",
+        "Symbol": "ADHD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Analog Devices, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Analog Devices, Inc. - Common Stock",
+        "Symbol": "ADI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ADMA Biologics Inc",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ADMA Biologics Inc - Common Stock",
+        "Symbol": "ADMA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Adamis Pharmaceuticals Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Adamis Pharmaceuticals Corporation - Common Stock",
+        "Symbol": "ADMP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Adamas Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Adamas Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ADMS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Audience, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Audience, Inc. - Common Stock",
+        "Symbol": "ADNC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Automatic Data Processing, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Automatic Data Processing, Inc. - Common Stock",
+        "Symbol": "ADP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "BLDRS Asia 50 ADR Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "BLDRS Asia 50 ADR Index Fund",
+        "Symbol": "ADRA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "BLDRS Developed Markets 100 ADR Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "BLDRS Developed Markets 100 ADR Index Fund",
+        "Symbol": "ADRD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "BLDRS Emerging Markets 50 ADR Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "BLDRS Emerging Markets 50 ADR Index Fund",
+        "Symbol": "ADRE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "BLDRS Europe 100 ADR Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "BLDRS Europe 100 ADR Index Fund",
+        "Symbol": "ADRU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Autodesk, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Autodesk, Inc. - Common Stock",
+        "Symbol": "ADSK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ADTRAN, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ADTRAN, Inc. - Common Stock",
+        "Symbol": "ADTN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Addus HomeCare Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Addus HomeCare Corporation - Common Stock",
+        "Symbol": "ADUS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Advent Software, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Advent Software, Inc. - Common Stock",
+        "Symbol": "ADVS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Advaxis, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Advaxis, Inc. - Common Stock",
+        "Symbol": "ADXS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Advaxis, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Advaxis, Inc. - Warrants",
+        "Symbol": "ADXSW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aegion Corp",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Aegion Corp - Class A Common Stock",
+        "Symbol": "AEGN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aegerion Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Aegerion Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "AEGR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aehr Test Systems",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Aehr Test Systems - Common Stock",
+        "Symbol": "AEHR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Advanced Energy Industries, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Advanced Energy Industries, Inc. - Common Stock",
+        "Symbol": "AEIS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AEP Industries Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AEP Industries Inc. - Common Stock",
+        "Symbol": "AEPI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aerie Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Aerie Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "AERI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Electric Technologies, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "American Electric Technologies, Inc. - Common Stock",
+        "Symbol": "AETI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ADDvantage Technologies Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "ADDvantage Technologies Group, Inc. - Common Stock",
+        "Symbol": "AEY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AEterna Zentaris Inc.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "AEterna Zentaris Inc. - Common Stock",
+        "Symbol": "AEZS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Almost Family Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Almost Family Inc - Common Stock",
+        "Symbol": "AFAM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Athens Bancshares Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Athens Bancshares Corporation - Common Stock",
+        "Symbol": "AFCB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Affymetrix, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Affymetrix, Inc. - Common Stock",
+        "Symbol": "AFFX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atlas Financial Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Atlas Financial Holdings, Inc. - Ordinary Shares",
+        "Symbol": "AFH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Affimed N.V.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Affimed N.V. - Common Stock",
+        "Symbol": "AFMD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alliance Fiber Optic Products, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Alliance Fiber Optic Products, Inc. - Common Stock",
+        "Symbol": "AFOP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AmTrust Financial Services, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AmTrust Financial Services, Inc. - Common Stock",
+        "Symbol": "AFSI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Agenus Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Agenus Inc. - Common Stock",
+        "Symbol": "AGEN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Argo Group International Holdings, Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Argo Group International Holdings, Ltd. - Common Stock",
+        "Symbol": "AGII",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Argo Group International Holdings, Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Argo Group International Holdings, Ltd. - 6.5% Senior Notes Due 2042",
+        "Symbol": "AGIIL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Agios Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Agios Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "AGIO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Capital Agency Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Capital Agency Corp. - Common Stock",
+        "Symbol": "AGNC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Capital Agency Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Capital Agency Corp. - Depositary Shares representing 1/1000th Series B Preferred Stock",
+        "Symbol": "AGNCB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Capital Agency Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Capital Agency Corp. - Cumulative Preferred Series A",
+        "Symbol": "AGNCP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "WisdomTree Barclays U.S. Aggregate Bond Negative Duration Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "WisdomTree Barclays U.S. Aggregate Bond Negative Duration Fund",
+        "Symbol": "AGND",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Agile Therapeutics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Agile Therapeutics, Inc. - Common Stock",
+        "Symbol": "AGRX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Applied Genetic Technologies Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Applied Genetic Technologies Corporation - Common Stock",
+        "Symbol": "AGTC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Agilysys, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Agilysys, Inc. - Common Stock",
+        "Symbol": "AGYS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "WisdomTree Barclays U.S. Aggregate Bond Zero Duration Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "WisdomTree Barclays U.S. Aggregate Bond Zero Duration Fund",
+        "Symbol": "AGZD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alliance Holdings GP, L.P.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alliance Holdings GP, L.P. - Common Units Representing Limited Partner Interests",
+        "Symbol": "AHGP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Allied Healthcare Products, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Allied Healthcare Products, Inc. - Common Stock",
+        "Symbol": "AHPI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Altra Industrial Motion Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Altra Industrial Motion Corp. - Common Stock",
+        "Symbol": "AIMC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Apollo Investment Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Apollo Investment Corporation - Closed End Fund",
+        "Symbol": "AINV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alliance HealthCare Services, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Alliance HealthCare Services, Inc. - Common Stock",
+        "Symbol": "AIQ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Air Methods Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Air Methods Corporation - Common Stock",
+        "Symbol": "AIRM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "First Trust RBA American Industrial Renaissance ETF",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "First Trust RBA American Industrial Renaissance ETF",
+        "Symbol": "AIRR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Air T, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Air T, Inc. - Common Stock",
+        "Symbol": "AIRT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aixtron SE",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Aixtron SE - American Depositary Shares, each representing one Ordinary Share",
+        "Symbol": "AIXG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Akamai Technologies, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Akamai Technologies, Inc. - Common Stock",
+        "Symbol": "AKAM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Achaogen, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Achaogen, Inc. - Common Stock",
+        "Symbol": "AKAO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Akebia Therapeutics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Akebia Therapeutics, Inc. - Common Stock",
+        "Symbol": "AKBA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Akers Biosciences Inc",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Akers Biosciences Inc - Common Stock",
+        "Symbol": "AKER",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Akorn, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Akorn, Inc. - Common Stock",
+        "Symbol": "AKRX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alico, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alico, Inc. - Common Stock",
+        "Symbol": "ALCO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alder BioPharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Alder BioPharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ALDR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aldeyra Therapeutics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Aldeyra Therapeutics, Inc. - Common Stock",
+        "Symbol": "ALDX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Align Technology, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Align Technology, Inc. - Common Stock",
+        "Symbol": "ALGN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Allegiant Travel Company",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Allegiant Travel Company - Common Stock",
+        "Symbol": "ALGT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alimera Sciences, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Alimera Sciences, Inc. - Common Stock",
+        "Symbol": "ALIM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alkermes plc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alkermes plc - Ordinary Shares",
+        "Symbol": "ALKS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alliance Bancorp, Inc. of Pennsylvania",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Alliance Bancorp, Inc. of Pennsylvania - Common Stock",
+        "Symbol": "ALLB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Allot Communications Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Allot Communications Ltd. - Ordinary Shares",
+        "Symbol": "ALLT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alnylam Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alnylam Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ALNY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Analogic Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Analogic Corporation - Common Stock",
+        "Symbol": "ALOG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Astro",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Astro-Med, Inc. - Common Stock",
+        "Symbol": "ALOT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alliqua, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Alliqua, Inc. - Common Stock",
+        "Symbol": "ALQA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alaska Communications Systems Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alaska Communications Systems Group, Inc. - Common Stock",
+        "Symbol": "ALSK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Altera Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Altera Corporation - Common Stock",
+        "Symbol": "ALTR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alexza Pharmaceuticals, Inc.",
+        "Financial Status": "D",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Alexza Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ALXA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alexion Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alexion Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ALXN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AMAG Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AMAG Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "AMAG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Applied Materials, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Applied Materials, Inc. - Common Stock",
+        "Symbol": "AMAT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ambarella, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Ambarella, Inc. - Ordinary Shares",
+        "Symbol": "AMBA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ambac Financial Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Ambac Financial Group, Inc. - Common Stock",
+        "Symbol": "AMBC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ambac Financial Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Ambac Financial Group, Inc. - Warrants",
+        "Symbol": "AMBCW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Applied Micro Circuits Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Applied Micro Circuits Corporation - Common Stock",
+        "Symbol": "AMCC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Andatee China Marine Fuel Services Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Andatee China Marine Fuel Services Corporation - Common Stock",
+        "Symbol": "AMCF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AirMedia Group Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AirMedia Group Inc - American Depositary Shares, each representing two ordinary shares",
+        "Symbol": "AMCN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AMC Networks Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AMC Networks Inc. - Class A Common Stock",
+        "Symbol": "AMCX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Advanced Micro Devices, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Advanced Micro Devices, Inc. - Common Stock",
+        "Symbol": "AMD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amedica Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Amedica Corporation - Common Stock",
+        "Symbol": "AMDA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amedisys Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amedisys Inc - Common Stock",
+        "Symbol": "AMED",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amgen Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amgen Inc. - Common Stock",
+        "Symbol": "AMGN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Independence Corp.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "American Independence Corp. - Common Stock",
+        "Symbol": "AMIC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amkor Technology, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amkor Technology, Inc. - Common Stock",
+        "Symbol": "AMKR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American National Bankshares, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American National Bankshares, Inc. - Common Stock",
+        "Symbol": "AMNB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Allied Motion Technologies, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Allied Motion Technologies, Inc. - Common Stock",
+        "Symbol": "AMOT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "America Movil, S.A.B. de C.V.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "America Movil, S.A.B. de C.V. - American Depositary Shares, each representing 20 A Shares",
+        "Symbol": "AMOV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amphastar Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amphastar Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "AMPH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American River Bankshares",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American River Bankshares - Common Stock",
+        "Symbol": "AMRB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Albany Molecular Research, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Albany Molecular Research, Inc. - Common Stock",
+        "Symbol": "AMRI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "A",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "A-Mark Precious Metals, Inc. - Common Stock",
+        "Symbol": "AMRK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amarin Corporation plc",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
+        "Symbol": "AMRN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amyris, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amyris, Inc. - Common Stock",
+        "Symbol": "AMRS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Superconductor Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Superconductor Corporation - Common Stock",
+        "Symbol": "AMSC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AMERISAFE, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AMERISAFE, Inc. - Common Stock",
+        "Symbol": "AMSF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amsurg Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amsurg Corp. - Common Stock",
+        "Symbol": "AMSG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amsurg Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amsurg Corp. - 5.250% Mandatory Convertible Preferred Stock, Series A-1",
+        "Symbol": "AMSGP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Software, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Software, Inc. - Class A Common Stock",
+        "Symbol": "AMSWA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aemetis, Inc",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Aemetis, Inc - Common Stock",
+        "Symbol": "AMTX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Woodmark Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Woodmark Corporation - Common Stock",
+        "Symbol": "AMWD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amazon.com, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amazon.com, Inc. - Common Stock",
+        "Symbol": "AMZN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Anacor Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Anacor Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ANAC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ANADIGICS, Inc.",
+        "Financial Status": "D",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ANADIGICS, Inc. - Common Stock",
+        "Symbol": "ANAD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American National Insurance Company",
+        "Financial Status": "D",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American National Insurance Company - Common Stock",
+        "Symbol": "ANAT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Anchor Bancorp",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Anchor Bancorp - Common Stock",
+        "Symbol": "ANCB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Caresource Holdings Inc",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "American Caresource Holdings Inc - Common Stock",
+        "Symbol": "ANCI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Access National Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Access National Corporation - Common Stock",
+        "Symbol": "ANCX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "The Andersons, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "The Andersons, Inc. - Common Stock",
+        "Symbol": "ANDE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Angie's List, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Angie's List, Inc. - Common Stock",
+        "Symbol": "ANGI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AngioDynamics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AngioDynamics, Inc. - Common Stock",
+        "Symbol": "ANGO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Anika Therapeutics Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Anika Therapeutics Inc. - Common Stock",
+        "Symbol": "ANIK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ANI Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "ANI Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ANIP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ANSYS, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ANSYS, Inc. - Common Stock",
+        "Symbol": "ANSS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Anthera Pharmaceuticals, Inc.",
+        "Financial Status": "D",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Anthera Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ANTH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Sphere 3D Corp",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Sphere 3D Corp - Common Shares",
+        "Symbol": "ANY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alpha and Omega Semiconductor Limited",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alpha and Omega Semiconductor Limited - Common Shares",
+        "Symbol": "AOSL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Apco Oil and Gas International Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Apco Oil and Gas International Inc. - Ordinary Shares",
+        "Symbol": "APAGF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Applied DNA Sciences Inc",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Applied DNA Sciences Inc - Common Stock",
+        "Symbol": "APDN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Applied DNA Sciences Inc",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Applied DNA Sciences Inc - Warrant",
+        "Symbol": "APDNW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Public Education, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Public Education, Inc. - Common Stock",
+        "Symbol": "APEI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Apogee Enterprises, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Apogee Enterprises, Inc. - Common Stock",
+        "Symbol": "APOG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Apollo Education Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Apollo Education Group, Inc. - Class A Common Stock",
+        "Symbol": "APOL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Venaxis, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Venaxis, Inc. - Common Stock",
+        "Symbol": "APPY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Apricus Biosciences, Inc",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Apricus Biosciences, Inc - Common Stock",
+        "Symbol": "APRI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alto Palermo S.A.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alto Palermo S.A. - American Depository Shares, each representing forty shares of Common Stock",
+        "Symbol": "APSA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aptose Biosciences, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Aptose Biosciences, Inc. - Common Shares",
+        "Symbol": "APTO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Asia Pacific Wire & Cable Corporation Limited",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",
+        "Symbol": "APWC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aquinox Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Aquinox Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "AQXP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Accuray Incorporated",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Accuray Incorporated - Common Stock",
+        "Symbol": "ARAY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ArcBest Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ArcBest Corporation - Common Stock",
+        "Symbol": "ARCB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ares Capital Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Ares Capital Corporation - Closed End Fund",
+        "Symbol": "ARCC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Appliance Recycling Centers of America, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Appliance Recycling Centers of America, Inc. - Common Stock",
+        "Symbol": "ARCI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Realty Capital Properties, Inc.",
+        "Financial Status": "E",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Realty Capital Properties, Inc. - Common Stock",
+        "Symbol": "ARCP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Realty Capital Properties, Inc.",
+        "Financial Status": "E",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Realty Capital Properties, Inc. - 6.70% Series F Cumulative Redeemable Preferred Stock",
+        "Symbol": "ARCPP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ARC Group Worldwide, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ARC Group Worldwide, Inc. - Common Stock",
+        "Symbol": "ARCW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aradigm Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Aradigm Corporation - Common Stock",
+        "Symbol": "ARDM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ardelyx, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Ardelyx, Inc. - Common Stock",
+        "Symbol": "ARDX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Approach Resources Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Approach Resources Inc. - Common Stock",
+        "Symbol": "AREX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Argos Therapeutics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Argos Therapeutics, Inc. - Common Stock",
+        "Symbol": "ARGS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ARIAD Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ARIAD Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ARIA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Railcar Industries, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Railcar Industries, Inc. - Common Stock",
+        "Symbol": "ARII",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ARI Network Services, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ARI Network Services, Inc. - Common Stock",
+        "Symbol": "ARIS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ark Restaurants Corp.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Ark Restaurants Corp. - Common Stock",
+        "Symbol": "ARKR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alliance Resource Partners, L.P.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests",
+        "Symbol": "ARLP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ARM Holdings plc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ARM Holdings plc - American Depositary Shares each representing 3 Ordinary Shares",
+        "Symbol": "ARMH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Arena Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Arena Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ARNA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Arrow Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Arrow Financial Corporation - Common Stock",
+        "Symbol": "AROW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ArQule, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "ArQule, Inc. - Common Stock",
+        "Symbol": "ARQL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ARRIS Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ARRIS Group, Inc. - Common Stock",
+        "Symbol": "ARRS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Array BioPharma Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Array BioPharma Inc. - Common Stock",
+        "Symbol": "ARRY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Artesian Resources Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Artesian Resources Corporation - Class A Non-Voting Common Stock",
+        "Symbol": "ARTNA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Art's",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Art's-Way Manufacturing Co., Inc. - Common Stock",
+        "Symbol": "ARTW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Arotech Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Arotech Corporation - Common Stock",
+        "Symbol": "ARTX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aruba Networks, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Aruba Networks, Inc. - Common Stock",
+        "Symbol": "ARUN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Arrowhead Research Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Arrowhead Research Corporation - Common Stock",
+        "Symbol": "ARWR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ASB Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "ASB Bancorp, Inc. - Common Stock",
+        "Symbol": "ASBB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ameriana Bancorp",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Ameriana Bancorp - Common Stock",
+        "Symbol": "ASBI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ascent Capital Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Ascent Capital Group, Inc. - Series A Common Stock",
+        "Symbol": "ASCMA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "American Science and Engineering, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "American Science and Engineering, Inc. - Common Stock",
+        "Symbol": "ASEI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Asta Funding, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Asta Funding, Inc. - Common Stock",
+        "Symbol": "ASFI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Assembly Biosciences, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Assembly Biosciences, Inc. - Common Stock",
+        "Symbol": "ASMB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ASM International N.V.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ASM International N.V. - Common Shares",
+        "Symbol": "ASMI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ASML Holding N.V.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ASML Holding N.V. - ADS represents 1 ordinary share",
+        "Symbol": "ASML",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ascena Retail Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Ascena Retail Group, Inc. - Common Stock",
+        "Symbol": "ASNA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Altisource Portfolio Solutions S.A.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Altisource Portfolio Solutions S.A. - Common Stock",
+        "Symbol": "ASPS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Auspex Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Auspex Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "ASPX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AmeriServ Financial Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "AmeriServ Financial Inc. - Common Stock",
+        "Symbol": "ASRV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AmeriServ Financial Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "AmeriServ Financial Inc. - AmeriServ Financial Trust I - 8.45% Beneficial Unsecured Securities, Series A",
+        "Symbol": "ASRVP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Astrotech Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Astrotech Corporation - Common Stock",
+        "Symbol": "ASTC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Astec Industries, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Astec Industries, Inc. - Common Stock",
+        "Symbol": "ASTE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ascent Solar Technologies, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Ascent Solar Technologies, Inc. - Common Stock",
+        "Symbol": "ASTI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Asure Software Inc",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Asure Software Inc - Common Stock",
+        "Symbol": "ASUR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Amtech Systems, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Amtech Systems, Inc. - Common Stock",
+        "Symbol": "ASYS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ATA Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "ATA Inc. - American Depositary Shares, each representing two common shares",
+        "Symbol": "ATAI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "America First Multifamily Investors, L.P.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests",
+        "Symbol": "ATAX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Astea International, Inc.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Astea International, Inc. - Common Stock",
+        "Symbol": "ATEA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Alphatec Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Alphatec Holdings, Inc. - Common Stock",
+        "Symbol": "ATEC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "athenahealth, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "athenahealth, Inc. - Common Stock",
+        "Symbol": "ATHN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Athersys, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Athersys, Inc. - Common Stock",
+        "Symbol": "ATHX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atlanticus Holdings Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Atlanticus Holdings Corporation - Common Stock",
+        "Symbol": "ATLC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ames National Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Ames National Corporation - Common Stock",
+        "Symbol": "ATLO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atmel Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Atmel Corporation - Common Stock",
+        "Symbol": "ATML",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atlantic Tele",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Atlantic Tele-Network, Inc. - Common Stock",
+        "Symbol": "ATNI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "API Technologies Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "API Technologies Corp. - Common Stock",
+        "Symbol": "ATNY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atossa Genetics Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Atossa Genetics Inc. - Common Stock",
+        "Symbol": "ATOS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Atara Biotherapeutics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Atara Biotherapeutics, Inc. - Common Stock",
+        "Symbol": "ATRA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AtriCure, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "AtriCure, Inc. - Common Stock",
+        "Symbol": "ATRC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ATRION Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ATRION Corporation - Common Stock",
+        "Symbol": "ATRI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ATRM Holdings, Inc.",
+        "Financial Status": "E",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ATRM Holdings, Inc. - Common Stock",
+        "Symbol": "ATRM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Astronics Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Astronics Corporation - Common Stock",
+        "Symbol": "ATRO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Antares Pharma, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Antares Pharma, Inc. - Common Stock",
+        "Symbol": "ATRS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Air Transport Services Group, Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Air Transport Services Group, Inc - Common Stock",
+        "Symbol": "ATSG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Attunity Ltd.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Attunity Ltd. - Ordinary Shares",
+        "Symbol": "ATTU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Activision Blizzard, Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Activision Blizzard, Inc - Common Stock",
+        "Symbol": "ATVI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Auburn National Bancorporation, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Auburn National Bancorporation, Inc. - Common Stock",
+        "Symbol": "AUBN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AudioCodes Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AudioCodes Ltd. - Ordinary Shares",
+        "Symbol": "AUDC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AR Capital Acquisition Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "AR Capital Acquisition Corp. - Common Stock",
+        "Symbol": "AUMA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AR Capital Acquisition Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "AR Capital Acquisition Corp. - Units",
+        "Symbol": "AUMAU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AR Capital Acquisition Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "AR Capital Acquisition Corp. - Warrants",
+        "Symbol": "AUMAW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aurinia Pharmaceuticals Inc",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Aurinia Pharmaceuticals Inc - Common Shares",
+        "Symbol": "AUPH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Auxilium Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Auxilium Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "AUXL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AeroVironment, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AeroVironment, Inc. - Common Stock",
+        "Symbol": "AVAV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AVEO Pharmaceuticals, Inc.",
+        "Financial Status": "D",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AVEO Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "AVEO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Avago Technologies Limited",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Avago Technologies Limited - Ordinary Shares",
+        "Symbol": "AVGO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "A V Homes, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "A V Homes, Inc. - Common Stock",
+        "Symbol": "AVHI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Avid Technology, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Avid Technology, Inc. - Common Stock",
+        "Symbol": "AVID",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Avanir Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Avanir Pharmaceuticals, Inc. - Class A Common Stock",
+        "Symbol": "AVNR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aviat Networks, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Aviat Networks, Inc. - Common Stock",
+        "Symbol": "AVNW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "HomeAway, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "HomeAway, Inc. - Common Stock",
+        "Symbol": "AWAY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aware, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Aware, Inc. - Common Stock",
+        "Symbol": "AWRE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Abraxas Petroleum Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Abraxas Petroleum Corporation - Common Stock",
+        "Symbol": "AXAS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Accelerate Diagnostics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Accelerate Diagnostics, Inc. - Common Stock",
+        "Symbol": "AXDX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AxoGen, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "AxoGen, Inc. - Common Stock",
+        "Symbol": "AXGN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "iShares MSCI All Country Asia ex Japan Small Cap Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "iShares MSCI All Country Asia ex Japan Small Cap Index Fund",
+        "Symbol": "AXJS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Axion Power International, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Axion Power International, Inc. - Common Stock",
+        "Symbol": "AXPW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Axion Power International, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Axion Power International, Inc. - Series A Warrants",
+        "Symbol": "AXPWW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "AXT Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "AXT Inc - Common Stock",
+        "Symbol": "AXTI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Aspen Technology, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Aspen Technology, Inc. - Common Stock",
+        "Symbol": "AZPN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Natus Medical Incorporated",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Natus Medical Incorporated - Common Stock",
+        "Symbol": "BABY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Diversified Restaurant Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Diversified Restaurant Holdings, Inc. - Common Stock",
+        "Symbol": "BAGR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Books",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Books-A-Million, Inc. - Common Stock",
+        "Symbol": "BAMM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "BancFirst Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "BancFirst Corporation - Common Stock",
+        "Symbol": "BANF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "BancFirst Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities",
+        "Symbol": "BANFP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Banner Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Banner Corporation - Common Stock",
+        "Symbol": "BANR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "StoneCastle Financial Corp",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "StoneCastle Financial Corp - Common Stock",
+        "Symbol": "BANX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Bioanalytical Systems, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Bioanalytical Systems, Inc. - Common Stock",
+        "Symbol": "BASI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Bed Bath & Beyond Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Bed Bath & Beyond Inc. - Common Stock",
+        "Symbol": "BBBY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "BioShares Biotechnology Clinical Trials Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "BioShares Biotechnology Clinical Trials Fund",
+        "Symbol": "BBC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cordia Bancorp Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cordia Bancorp Inc. - Common Stock",
+        "Symbol": "BVA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "BroadVision, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "BroadVision, Inc. - Common Stock",
+        "Symbol": "BVSN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Broadwind Energy, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Broadwind Energy, Inc. - Common Stock",
+        "Symbol": "BWEN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Bankwell Financial Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Bankwell Financial Group, Inc. - Common Stock",
+        "Symbol": "BWFG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Baldwin & Lyons, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Baldwin & Lyons, Inc. - Class A (voting) Common Stock",
+        "Symbol": "BWINA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Baldwin & Lyons, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Baldwin & Lyons, Inc. - Class B (nonvoting) Common Stock",
+        "Symbol": "BWINB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Buffalo Wild Wings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Buffalo Wild Wings, Inc. - Common Stock",
+        "Symbol": "BWLD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Bay Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Bay Bancorp, Inc. - Common Stock",
+        "Symbol": "BYBK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Broadway Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Broadway Financial Corporation - Common Stock",
+        "Symbol": "BYFC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Baylake Corp",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Baylake Corp - Common Stock",
+        "Symbol": "BYLK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CA Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CA Inc. - Common Stock",
+        "Symbol": "CA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Automotive Systems, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "China Automotive Systems, Inc. - Common Stock",
+        "Symbol": "CAAS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Camden National Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Camden National Corporation - Common Stock",
+        "Symbol": "CAC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cascade Bancorp",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cascade Bancorp - Common Stock",
+        "Symbol": "CACB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Credit Acceptance Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Credit Acceptance Corporation - Common Stock",
+        "Symbol": "CACC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chart Acquisition Corp.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Chart Acquisition Corp. - Common Stock",
+        "Symbol": "CACG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chart Acquisition Corp.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Chart Acquisition Corp. - Units",
+        "Symbol": "CACGU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chart Acquisition Corp.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Chart Acquisition Corp. - Warrants",
+        "Symbol": "CACGW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cache, Inc.",
+        "Financial Status": "D",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cache, Inc. - Common Stock",
+        "Symbol": "CACH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Caesars Acquisition Company",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Caesars Acquisition Company - Class A Common Stock",
+        "Symbol": "CACQ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Advanced Construction Materials Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "China Advanced Construction Materials Group, Inc. - Common Stock",
+        "Symbol": "CADC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "DT Asia Investments Limited",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "DT Asia Investments Limited - Ordinary Shares",
+        "Symbol": "CADT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "DT Asia Investments Limited",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "DT Asia Investments Limited - Right",
+        "Symbol": "CADTR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "DT Asia Investments Limited",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "DT Asia Investments Limited - Unit",
+        "Symbol": "CADTU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "DT Asia Investments Limited",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "DT Asia Investments Limited - Warrant",
+        "Symbol": "CADTW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "The Cheesecake Factory Incorporated",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "The Cheesecake Factory Incorporated - Common Stock",
+        "Symbol": "CAKE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Calithera Biosciences, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Calithera Biosciences, Inc. - Common Stock",
+        "Symbol": "CALA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Callidus Software, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Callidus Software, Inc. - Common Stock",
+        "Symbol": "CALD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Auto Logistics Inc.",
+        "Financial Status": "D",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "China Auto Logistics Inc. - Common Stock",
+        "Symbol": "CALI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "magicJack VocalTec Ltd",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "magicJack VocalTec Ltd - Ordinary Shares",
+        "Symbol": "CALL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cal",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cal-Maine Foods, Inc. - Common Stock",
+        "Symbol": "CALM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cambridge Capital Acquisition Corporation",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cambridge Capital Acquisition Corporation - Common Stock",
+        "Symbol": "CAMB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cambridge Capital Acquisition Corporation",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cambridge Capital Acquisition Corporation - Unit",
+        "Symbol": "CAMBU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cambridge Capital Acquisition Corporation",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cambridge Capital Acquisition Corporation - Warrant",
+        "Symbol": "CAMBW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CalAmp Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CalAmp Corp. - Common Stock",
+        "Symbol": "CAMP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Camtek Ltd.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Camtek Ltd. - Ordinary Shares",
+        "Symbol": "CAMT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Capnia, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Capnia, Inc. - Common Stock",
+        "Symbol": "CAPN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Capnia, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Capnia, Inc. - Series A Warrant",
+        "Symbol": "CAPNW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Avis Budget Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Avis Budget Group, Inc. - Common Stock",
+        "Symbol": "CAR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cara Therapeutics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Cara Therapeutics, Inc. - Common Stock",
+        "Symbol": "CARA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Carbonite, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Carbonite, Inc. - Common Stock",
+        "Symbol": "CARB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Carolina Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Carolina Financial Corporation - Common Stock",
+        "Symbol": "CARO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Carolina Trust Bank",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Carolina Trust Bank - Common Stock",
+        "Symbol": "CART",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Carver Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Carver Bancorp, Inc. - Common Stock",
+        "Symbol": "CARV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "First Trust NASDAQ Global Auto Index Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "First Trust NASDAQ Global Auto Index Fund",
+        "Symbol": "CARZ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Meta Financial Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Meta Financial Group, Inc. - Common Stock",
+        "Symbol": "CASH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CASI Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CASI Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "CASI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CAS Medical Systems, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CAS Medical Systems, Inc. - Common Stock",
+        "Symbol": "CASM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cass Information Systems, Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cass Information Systems, Inc - Common Stock",
+        "Symbol": "CASS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Caseys General Stores, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Caseys General Stores, Inc. - Common Stock",
+        "Symbol": "CASY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cardtronics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cardtronics, Inc. - Common Stock",
+        "Symbol": "CATM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cathay General Bancorp",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cathay General Bancorp - Common Stock",
+        "Symbol": "CATY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cathay General Bancorp",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cathay General Bancorp - Warrant",
+        "Symbol": "CATYW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cavium, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cavium, Inc. - Common Stock",
+        "Symbol": "CAVM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China BAK Battery, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "China BAK Battery, Inc. - Common Stock",
+        "Symbol": "CBAK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Colony Bankcorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Colony Bankcorp, Inc. - Common Stock",
+        "Symbol": "CBAN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CymaBay Therapeutics Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CymaBay Therapeutics Inc. - Common Stock",
+        "Symbol": "CBAY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CBD Energy Limited",
+        "Financial Status": "K",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CBD Energy Limited - Ordinary Shares",
+        "Symbol": "CBDE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Capital Bank Financial Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Capital Bank Financial Corp. - Class A Common Stock",
+        "Symbol": "CBF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CB Financial Services, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "CB Financial Services, Inc. - Common Stock",
+        "Symbol": "CBFV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Community Bank Shares of Indiana, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Community Bank Shares of Indiana, Inc. - Common Stock",
+        "Symbol": "CBIN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cleveland BioLabs, Inc.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cleveland BioLabs, Inc. - Common Stock",
+        "Symbol": "CBLI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cellular Biomedicine Group, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cellular Biomedicine Group, Inc. - Common Stock",
+        "Symbol": "CBMG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CombiMatrix Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CombiMatrix Corporation - Common Stock",
+        "Symbol": "CBMX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cape Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cape Bancorp, Inc. - Common Stock",
+        "Symbol": "CBNJ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chicopee Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Chicopee Bancorp, Inc. - Common Stock",
+        "Symbol": "CBNK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CBOE Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CBOE Holdings, Inc. - Common Stock",
+        "Symbol": "CBOE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Biologic Products, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "China Biologic Products, Inc. - Common Stock",
+        "Symbol": "CBPO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cracker Barrel Old Country Store, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cracker Barrel Old Country Store, Inc. - Common Stock",
+        "Symbol": "CBRL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Columbia Laboratories, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Columbia Laboratories, Inc. - Common Stock",
+        "Symbol": "CBRX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Commerce Bancshares, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Commerce Bancshares, Inc. - Common Stock",
+        "Symbol": "CBSH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Commerce Bancshares, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Commerce Bancshares, Inc. - Depositary Shares, each representing a 1/1000th interest of 6.00% Series B Non-Cumulative Perpetual Preferred Stock",
+        "Symbol": "CBSHP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cubist Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cubist Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "CBST",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cubist Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cubist Pharmaceuticals, Inc. - Contingent Value Right",
+        "Symbol": "CBSTZ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Capital City Bank Group",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Capital City Bank Group - Common Stock",
+        "Symbol": "CCBG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Ceramics Co., Ltd.",
+        "Financial Status": "D",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "China Ceramics Co., Ltd. - Common Stock",
+        "Symbol": "CCCL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Commercial Credit, Inc.",
+        "Financial Status": "E",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "China Commercial Credit, Inc. - Common Stock",
+        "Symbol": "CCCR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ChinaCache International Holdings Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ChinaCache International Holdings Ltd. - American Depositary Shares",
+        "Symbol": "CCIH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CSI Compressco LP",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CSI Compressco LP - common units",
+        "Symbol": "CCLP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cabot Microelectronics Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cabot Microelectronics Corporation - Common Stock",
+        "Symbol": "CCMP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CNB Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CNB Financial Corporation - Common Stock",
+        "Symbol": "CCNE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cogent Communications Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cogent Communications Holdings, Inc. - Common Stock",
+        "Symbol": "CCOI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cross Country Healthcare, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cross Country Healthcare, Inc. - Common Stock",
+        "Symbol": "CCRN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Concurrent Computer Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Concurrent Computer Corporation - Common Stock",
+        "Symbol": "CCUR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ChemoCentryx, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ChemoCentryx, Inc. - Common Stock",
+        "Symbol": "CCXI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Compass EMP U S EQ Income 100 Enhanced Volatility Weighted Fund",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Compass EMP U S EQ Income 100 Enhanced Volatility Weighted Fund",
+        "Symbol": "CDC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CDK Global, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CDK Global, Inc. - Common Stock",
+        "Symbol": "CDK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CareDx, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "CareDx, Inc. - Common Stock",
+        "Symbol": "CDNA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cadence Design Systems, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cadence Design Systems, Inc. - Common Stock",
+        "Symbol": "CDNS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Clean Diesel Technologies, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Clean Diesel Technologies, Inc. - Common Stock",
+        "Symbol": "CDTI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CDW Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CDW Corporation - Common Stock",
+        "Symbol": "CDW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Codexis, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Codexis, Inc. - Common Stock",
+        "Symbol": "CDXS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cadiz, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Cadiz, Inc. - Common Stock",
+        "Symbol": "CDZI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CECO Environmental Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CECO Environmental Corp. - Common Stock",
+        "Symbol": "CECE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Career Education Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Career Education Corporation - Common Stock",
+        "Symbol": "CECO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Celgene Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Celgene Corporation - Common Stock",
+        "Symbol": "CELG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Celgene Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Celgene Corporation - Contingent Value Right",
+        "Symbol": "CELGZ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chembio Diagnostics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Chembio Diagnostics, Inc. - Common Stock",
+        "Symbol": "CEMI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cempra, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cempra, Inc. - Common Stock",
+        "Symbol": "CEMP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Central Garden & Pet Company",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Central Garden & Pet Company - Common Stock",
+        "Symbol": "CENT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Central Garden & Pet Company",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Central Garden & Pet Company - Class A Common Stock Nonvoting",
+        "Symbol": "CENTA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Century Aluminum Company",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Century Aluminum Company - Common Stock",
+        "Symbol": "CENX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Ceres, Inc.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Ceres, Inc. - Common Stock",
+        "Symbol": "CERE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cerner Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cerner Corporation - Common Stock",
+        "Symbol": "CERN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cerus Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Cerus Corporation - Common Stock",
+        "Symbol": "CERS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cerulean Pharma Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Cerulean Pharma Inc. - Common Stock",
+        "Symbol": "CERU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Central European Media Enterprises Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Central European Media Enterprises Ltd. - Class A Common Stock",
+        "Symbol": "CETV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CEVA, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CEVA, Inc. - Common Stock",
+        "Symbol": "CEVA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Compass EMP US 500 Volatility Weighted Index ETF",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Compass EMP US 500 Volatility Weighted Index ETF",
+        "Symbol": "CFA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Central Federal Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Central Federal Corporation - Common Stock",
+        "Symbol": "CFBK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "C&F Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "C&F Financial Corporation - Common Stock",
+        "Symbol": "CFFI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Capitol Federal Financial, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Capitol Federal Financial, Inc. - Common Stock",
+        "Symbol": "CFFN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Calamos Focus Growth ETF",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Calamos Focus Growth ETF",
+        "Symbol": "CFGE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "California First National Bancorp",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "California First National Bancorp - Common Stock",
+        "Symbol": "CFNB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cardinal Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cardinal Financial Corporation - Common Stock",
+        "Symbol": "CFNL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Compass EMP US 500 Enhanced Volatility Weighted Index ETF",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Compass EMP US 500 Enhanced Volatility Weighted Index ETF",
+        "Symbol": "CFO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ContraFect Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ContraFect Corporation - Common Stock",
+        "Symbol": "CFRX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ContraFect Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ContraFect Corporation - Warrant",
+        "Symbol": "CFRXW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ContraFect Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ContraFect Corporation - Warrant",
+        "Symbol": "CFRXZ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "The Carlyle Group L.P.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "The Carlyle Group L.P. - Common Units",
+        "Symbol": "CG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Compugen Ltd.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Compugen Ltd. - Ordinary Shares",
+        "Symbol": "CGEN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cancer Genetics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cancer Genetics, Inc. - Common Stock",
+        "Symbol": "CGIX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cognex Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cognex Corporation - Common Stock",
+        "Symbol": "CGNX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Calamos Global Total Return Fund",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Calamos Global Total Return Fund - Common Stock",
+        "Symbol": "CGO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Comstock Holding Companies, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Comstock Holding Companies, Inc. - Class A Common Stock",
+        "Symbol": "CHCI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "City Holding Company",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "City Holding Company - Common Stock",
+        "Symbol": "CHCO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Churchill Downs, Incorporated",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Churchill Downs, Incorporated - Common Stock",
+        "Symbol": "CHDN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "The Chefs' Warehouse, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "The Chefs' Warehouse, Inc. - Common Stock",
+        "Symbol": "CHEF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cheviot Financial Corp",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cheviot Financial Corp - Common Stock",
+        "Symbol": "CHEV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chemical Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Chemical Financial Corporation - Common Stock",
+        "Symbol": "CHFC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Charter Financial Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Charter Financial Corp. - Common Stock",
+        "Symbol": "CHFN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Calamos Convertible Opportunities and Income Fund",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Calamos Convertible Opportunities and Income Fund - Common Stock",
+        "Symbol": "CHI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cherokee Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cherokee Inc. - Common Stock",
+        "Symbol": "CHKE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Check Point Software Technologies Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Check Point Software Technologies Ltd. - Ordinary Shares",
+        "Symbol": "CHKP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Housing & Land Development, Inc.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "China Housing & Land Development, Inc. - Common Stock",
+        "Symbol": "CHLN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chemung Financial Corp",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Chemung Financial Corp - Common Stock",
+        "Symbol": "CHMG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Natural Resources, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "China Natural Resources, Inc. - Common Stock",
+        "Symbol": "CHNR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Gerui Advanced Materials Group Limited",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "China Gerui Advanced Materials Group Limited - Ordinary Shares",
+        "Symbol": "CHOP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Coherus BioSciences, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Coherus BioSciences, Inc. - Common Stock",
+        "Symbol": "CHRS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "C.H. Robinson Worldwide, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "C.H. Robinson Worldwide, Inc. - Common Stock",
+        "Symbol": "CHRW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CHS Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CHS Inc - Class B Reset Rate Cumulative Redeemable Preferred Stock, Series 3",
+        "Symbol": "CHSCM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CHS Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CHS Inc - Preferred Class B Series 2 Reset Rate",
+        "Symbol": "CHSCN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CHS Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CHS Inc - Class B Cumulative Redeemable Preferred Stock",
+        "Symbol": "CHSCO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CHS Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CHS Inc - 8%  Cumulative Redeemable Preferred Stock",
+        "Symbol": "CHSCP",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Charter Communications, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Charter Communications, Inc. - Class A Common Stock",
+        "Symbol": "CHTR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chuy's Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Chuy's Holdings, Inc. - Common Stock",
+        "Symbol": "CHUY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Calamos Global Dynamic Income Fund",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Calamos Global Dynamic Income Fund - Common Stock",
+        "Symbol": "CHW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "WisdomTree China Dividend Ex",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "WisdomTree China Dividend Ex-Financials Fund",
+        "Symbol": "CHXF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Calamos Convertible and High Income Fund",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Calamos Convertible and High Income Fund - Common Stock",
+        "Symbol": "CHY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ChyronHego Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "ChyronHego Corporation - Common Stock",
+        "Symbol": "CHYR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cinedigm Corp",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Cinedigm Corp - Class A Common Stock",
+        "Symbol": "CIDM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CIFC Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CIFC Corp. - Common Stock",
+        "Symbol": "CIFC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cimatron, Limited",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cimatron, Limited - Ordinary Shares",
+        "Symbol": "CIMT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cincinnati Financial Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cincinnati Financial Corporation - Common Stock",
+        "Symbol": "CINF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CIS Acquisition Ltd.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CIS Acquisition Ltd. - Warrant",
+        "Symbol": "CISAW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CNinsure Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CNinsure Inc. - American depositary shares, each representing 20 ordinary shares",
+        "Symbol": "CISG",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Compass EMP Developed 500 Enhanced Volatility Weighted Index ETF",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Compass EMP Developed 500 Enhanced Volatility Weighted Index ETF",
+        "Symbol": "CIZ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Citizens Holding Company",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Citizens Holding Company - Common Stock",
+        "Symbol": "CIZN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Jo",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "China Jo-Jo Drugstores, Inc. - Common Stock",
+        "Symbol": "CJJD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Carmike Cinemas, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Carmike Cinemas, Inc. - Common Stock",
+        "Symbol": "CKEC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ClickSoftware Technologies Ltd.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ClickSoftware Technologies Ltd. - Ordinary Shares",
+        "Symbol": "CKSW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Capitol Acquisition Corp. II",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Capitol Acquisition Corp. II - Common Stock",
+        "Symbol": "CLAC",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Capitol Acquisition Corp. II",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Capitol Acquisition Corp. II - Unit",
+        "Symbol": "CLACU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Capitol Acquisition Corp. II",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Capitol Acquisition Corp. II - Warrant",
+        "Symbol": "CLACW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Carolina Bank Holdings Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Carolina Bank Holdings Inc. - Common Stock",
+        "Symbol": "CLBH",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Collectors Universe, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Collectors Universe, Inc. - Common Stock",
+        "Symbol": "CLCT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Celladon Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Celladon Corporation - Common Stock",
+        "Symbol": "CLDN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Celldex Therapeutics, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Celldex Therapeutics, Inc. - Common Stock",
+        "Symbol": "CLDX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Clearfield, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Clearfield, Inc. - Common Stock",
+        "Symbol": "CLFD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ClearSign Combustion Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ClearSign Combustion Corporation - Common Stock",
+        "Symbol": "CLIR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Calamos Asset Management, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Calamos Asset Management, Inc. - Class A Common Stock",
+        "Symbol": "CLMS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Calumet Specialty Products Partners, L.P.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Calumet Specialty Products Partners, L.P. - Common units representing limited partner interests",
+        "Symbol": "CLMT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Clean Energy Fuels Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Clean Energy Fuels Corp. - Common Stock",
+        "Symbol": "CLNE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cleantech Solutions International, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cleantech Solutions International, Inc. - Common Stock",
+        "Symbol": "CLNT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cellectar Biosciences, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cellectar Biosciences, Inc. - Common Stock",
+        "Symbol": "CLRB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cellectar Biosciences, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cellectar Biosciences, Inc. - Warrants",
+        "Symbol": "CLRBW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ClearOne, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ClearOne, Inc. - Common Stock",
+        "Symbol": "CLRO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CollabRx, Inc.",
+        "Financial Status": "D",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CollabRx, Inc. - Common Stock",
+        "Symbol": "CLRX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Celsion Corporation",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Celsion Corporation - Common Stock",
+        "Symbol": "CLSN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Celsus Therapeutics Plc",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Celsus Therapeutics Plc - American Depositary Shares",
+        "Symbol": "CLTX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Town Sports International Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Town Sports International Holdings, Inc. - Common Stock",
+        "Symbol": "CLUB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Clovis Oncology, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Clovis Oncology, Inc. - Common Stock",
+        "Symbol": "CLVS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Euro Tech Holdings Company Limited",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Euro Tech Holdings Company Limited - Ordinary Shares",
+        "Symbol": "CLWT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Columbus McKinnon Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Columbus McKinnon Corporation - Common Stock",
+        "Symbol": "CMCO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Comcast Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Comcast Corporation - Class A Common Stock",
+        "Symbol": "CMCSA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Comcast Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Comcast Corporation - Class A Special Common Stock",
+        "Symbol": "CMCSK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CIM Commercial Trust Corporation",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "CIM Commercial Trust Corporation - Common Stock",
+        "Symbol": "CMCT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CME Group Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CME Group Inc. - Class A Common Stock",
+        "Symbol": "CME",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CM Finance Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CM Finance Inc - Common Stock",
+        "Symbol": "CMFN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Mobile Games and Entertainment Group Limited",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "China Mobile Games and Entertainment Group Limited - American Depositary Shares",
+        "Symbol": "CMGE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cumulus Media Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cumulus Media Inc. - Common Stock",
+        "Symbol": "CMLS",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cimpress N.V",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cimpress N.V - Ordinary Shares (The Netherlands)",
+        "Symbol": "CMPR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Chimerix, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Chimerix, Inc. - Common Stock",
+        "Symbol": "CMRX",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CMS Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CMS Bancorp, Inc. - common stock",
+        "Symbol": "CMSB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Comtech Telecommunications Corp.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Comtech Telecommunications Corp. - Common Stock",
+        "Symbol": "CMTL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Conatus Pharmaceuticals Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Conatus Pharmaceuticals Inc. - Common Stock",
+        "Symbol": "CNAT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Century Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Century Bancorp, Inc. - Class A Common Stock",
+        "Symbol": "CNBKA",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Concert Pharmaceuticals, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Concert Pharmaceuticals, Inc. - Common Stock",
+        "Symbol": "CNCE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Coronado Biosciences, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Coronado Biosciences, Inc. - Common Stock",
+        "Symbol": "CNDO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ChinaNet Online Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "ChinaNet Online Holdings, Inc. - Common Stock",
+        "Symbol": "CNET",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Information Technology, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "China Information Technology, Inc. - Ordinary Shares",
+        "Symbol": "CNIT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CB Pharma Acquisition Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CB Pharma Acquisition Corp. - Ordinary Shares",
+        "Symbol": "CNLM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CB Pharma Acquisition Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CB Pharma Acquisition Corp. - Rights",
+        "Symbol": "CNLMR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CB Pharma Acquisition Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CB Pharma Acquisition Corp. - Units",
+        "Symbol": "CNLMU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CB Pharma Acquisition Corp.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CB Pharma Acquisition Corp. - Warrants",
+        "Symbol": "CNLMW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CONMED Corporation",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CONMED Corporation - Common Stock",
+        "Symbol": "CNMD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "ConnectOne Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "ConnectOne Bancorp, Inc. - Common Stock",
+        "Symbol": "CNOB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Comverse Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Comverse Inc. - Common Stock",
+        "Symbol": "CNSI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Consolidated Communications Holdings, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Consolidated Communications Holdings, Inc. - Common Stock",
+        "Symbol": "CNSL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China TechFaith Wireless Communication Technology Limited",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "China TechFaith Wireless Communication Technology Limited - American Depositary Shares, each representing 15 ordinary shares",
+        "Symbol": "CNTF",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Century Casinos, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Century Casinos, Inc. - Common Stock",
+        "Symbol": "CNTY",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cnova N.V.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cnova N.V. - Ordinary Shares",
+        "Symbol": "CNV",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Connecture, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Connecture, Inc. - Common Stock",
+        "Symbol": "CNXR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "China Yida Holding, Co.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "China Yida Holding, Co. - Common Stock",
+        "Symbol": "CNYD",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CommunityOne Bancorp",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "CommunityOne Bancorp - Common Stock",
+        "Symbol": "COB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Colonial Financial Services, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Colonial Financial Services, Inc. - Common Stock",
+        "Symbol": "COBK",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CoBiz Financial Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CoBiz Financial Inc. - Common Stock",
+        "Symbol": "COBZ",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Corinthian Colleges, Inc.",
+        "Financial Status": "H",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Corinthian Colleges, Inc. - Common Stock",
+        "Symbol": "COCO",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Coherent, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Coherent, Inc. - Common Stock",
+        "Symbol": "COHR",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cohu, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Cohu, Inc. - Common Stock",
+        "Symbol": "COHU",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Coca",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Coca-Cola Bottling Co. Consolidated - Common Stock",
+        "Symbol": "COKE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Columbia Banking System, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Columbia Banking System, Inc. - Common Stock",
+        "Symbol": "COLB",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Columbia Sportswear Company",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Columbia Sportswear Company - Common Stock",
+        "Symbol": "COLM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CommScope Holding Company, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CommScope Holding Company, Inc. - Common Stock",
+        "Symbol": "COMM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "iShares Commodities Select Strategy ETF",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "iShares Commodities Select Strategy ETF",
+        "Symbol": "COMT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "CyrusOne Inc",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "CyrusOne Inc - Common Stock",
+        "Symbol": "CONE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Conn's, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Conn's, Inc. - Common Stock",
+        "Symbol": "CONN",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Majesco Entertainment Company",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Majesco Entertainment Company - Common Stock",
+        "Symbol": "COOL",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Core",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "Core-Mark Holding Company, Inc. - Common Stock",
+        "Symbol": "CORE",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Corium International, Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "Corium International, Inc. - Common Stock",
+        "Symbol": "CORI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Corcept Therapeutics Incorporated",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Corcept Therapeutics Incorporated - Common Stock",
+        "Symbol": "CORT",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "Cosi, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "Cosi, Inc. - Common Stock",
+        "Symbol": "COSI",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "First Federal of Northern Michigan Bancorp, Inc.",
+        "Financial Status": "N",
+        "Market Category": "S",
+        "Round Lot Size": 100,
+        "Security Name": "First Federal of Northern Michigan Bancorp, Inc. - Common Stock",
+        "Symbol": "FFNM",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "First Financial Northwest, Inc.",
+        "Financial Status": "N",
+        "Market Category": "Q",
+        "Round Lot Size": 100,
+        "Security Name": "First Financial Northwest, Inc. - Common Stock",
+        "Symbol": "FFNW",
+        "Test Issue": "N"
+    },
+    {
+        "Company Name": "First Foundation Inc.",
+        "Financial Status": "N",
+        "Market Category": "G",
+        "Round Lot Size": 100,
+        "Security Name": "First Foundation Inc. - Common Stock",
+        "Symbol": "FFWM",
+        "Test Issue": "N"
+    }
+]
