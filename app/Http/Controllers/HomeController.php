@@ -38,11 +38,13 @@ class HomeController extends Controller
         $data = File::get(public_path('data/companies.json'));
         $data = json_decode($data);
 
-        $data = array_filter($data, function ($item) use ($symbol) {
-            return $item->Symbol == $symbol;
-        });
+        foreach ($data as $item) {
+            if ($item->{"Symbol"} == $symbol) {
+                return $item;
+            }
+        }
 
-        return $data;
+        return null;
     }
 
     public function showData(Request $request)
@@ -70,6 +72,12 @@ class HomeController extends Controller
             $start_date = strtotime($request->start_date);
             $end_date = strtotime($request->end_date);
 
+            // check if prices data is available
+
+            if (!isset($data->prices)) {
+                return redirect()->back()->withErrors('No data found');
+            }
+
             // get prices data
             $data = $data->prices;
 
@@ -84,7 +92,8 @@ class HomeController extends Controller
                 $item->newDate = date('d-m-Y', $item->date);
             }
 
-            $companyName = $this->getCompanyDataBySymbol($request->symbol)->{"Company Name"};
+            $companyData = $this->getCompanyDataBySymbol($request->symbol);
+            $companyName = $companyData->{"Company Name"};
 
 
             // sort data by date

@@ -2,7 +2,7 @@
 
 namespace Tests\Unit;
 
-use PHPUnit\Framework\TestCase;
+use Tests\TestCase;
 
 class GetCompanies extends TestCase
 {
@@ -17,13 +17,17 @@ class GetCompanies extends TestCase
         $data = $companies->getCompanyData();
 
         $this->assertIsArray($data);
+
+        $this->assertGreaterThan(0, count($data));
+
+        $this->assertTrue(true);
     }
 
     public function test_get_companies_with_symbol()
     {
         $companies = new \App\Http\Controllers\HomeController();
-        $data = $companies->getCompanyData('AAPL');
+        $data = $companies->getCompanyDataBySymbol('AAPL');
 
-        $this->assertIsArray($data);
+        $this->assertEquals('AAPL', $data->Symbol);
     }
 }

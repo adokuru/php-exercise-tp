@@ -5,31 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    @vite('resources/js/app.js')
+    <title>Company History Data </title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
-    <script>
-        $(function() {
-            $("#startDate").datepicker({
-                maxDate: new Date()
-            });
-            $("#startDate").datepicker("option", "dateFormat", "yy-mm-dd");
-            $("#endDate").datepicker({
-                beforeShow: function() {
-                    var startDate = $("#startDate").val();
-                    if (startDate) {
-                        var dateParts = startDate.split("-");
-                        var date = new Date(dateParts[0], dateParts[1] - 1, dateParts[2]);
-                        $(this).datepicker("option", "minDate", date);
-                    }
-                },
-                maxDate: new Date()
-            });
-            $("#endDate").datepicker("option", "dateFormat", "yy-mm-dd");
-        });
-    </script>
 </head>
 
 
@@ -76,7 +54,28 @@
             </form>
         </div>
     </main>
-
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+    <script>
+        $(function() {
+            $("#startDate").datepicker({
+                maxDate: new Date()
+            });
+            $("#startDate").datepicker("option", "dateFormat", "yy-mm-dd");
+            $("#endDate").datepicker({
+                beforeShow: function() {
+                    var startDate = $("#startDate").val();
+                    if (startDate) {
+                        var dateParts = startDate.split("-");
+                        var date = new Date(dateParts[0], dateParts[1] - 1, dateParts[2]);
+                        $(this).datepicker("option", "minDate", date);
+                    }
+                },
+                maxDate: new Date()
+            });
+            $("#endDate").datepicker("option", "dateFormat", "yy-mm-dd");
+        });
+    </script>
 </body>
 
 </html>
